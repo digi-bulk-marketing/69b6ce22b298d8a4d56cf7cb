@@ -1,9 +1,14 @@
-# BlackOut Send
+# BlackSender
 
-- Rebranding ID: 69b6ce22b298d8a4d56cf7cb
-- User ID: 69b568d7b298d8a4d5660e8e
-- App name: BlackOut Send
-- Product name: Button Sender
+BlackSender by BlackOut.
 
-App logo: https://api.digibulkmarketing.com/media/uploads/image/67d78e5b-5c75-45d8-993a-efc212ca189d.png
-![App Logo](https://api.digibulkmarketing.com/media/uploads/image/67d78e5b-5c75-45d8-993a-efc212ca189d.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/69b6ce22b298d8a4d56cf7cb/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **BlackSender** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/69b6ce22b298d8a4d56cf7cb/releases/latest) and reinstall.
